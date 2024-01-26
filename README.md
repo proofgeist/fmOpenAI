@@ -1,0 +1,2 @@
+# fmOpenAI
+FileMaker openAI scripts
